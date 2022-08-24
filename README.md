@@ -13,7 +13,7 @@ Methods
 
 Installation of “rucdr”
 
-1) Download the package from the official depository https://github.com/antpiron/rucdr/releases 
+1) Download the package from the official depository https://github.com/antpiron/rucdr
 2) sudo R CMD INSTALL rucdr_0.1.tar.gz for Debian/Ubuntu
 3) install.packages(“rucdr_0.1.tar.gz”, repos= NULL, type=”source”) for R
 3) library(“rucdr”)

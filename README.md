@@ -8,7 +8,7 @@ Methods
 
 1) The input to the script is tab-separated metadata.tsv 
 2) The salmon quantification for each sample is quired
-3) A home homemade R package “rucdr” should be installed to run this script
+3) A homemade R package “rucdr” should be installed to run this script
 4) Other required packages and databases referred to the script.R
 
 Installation of “rucdr”
